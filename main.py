@@ -1,6 +1,10 @@
-"""Similar image finder
-sam goldberg
 """
+Program name: Similar Image
+Date of first writing: 06/30/2023
+Author: Sam Goldberg
+"""
+
+
 from PIL import ImageStat as iss
 from PIL import Image
 from PIL import ImageColor

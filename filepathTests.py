@@ -1,7 +1,16 @@
+"""
+Library/Module name:filepathtests
+For trying to figure out how to loop thorugh as set of images in a directory with PIL.
+Use glob, specify the extension of the file
+
+Author: Sam Goldberg
+
+++THIS IS A SCRATCH FILE++
+"""
+
 #from pathlib import Path
 import os
-#For trying to figure out how to loop thorugh as set of images in a directory with PIL.
-#Use glob, specify the extension of the file
+
 import os
 from PIL import Image
 import glob

@@ -1,4 +1,11 @@
-"""Tests"""
+"""
+Library/Module name: tests
+For testing functions before deployment. 
+Author: Sam Goldberg
+"""
+
+
+
 import os
 from PIL import Image 
 def test_PIL():
